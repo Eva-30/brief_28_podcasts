@@ -3,7 +3,7 @@
   const DB_HOST    = "localhost";
   const DB_NAME    = "podcasts";
   const DB_LOGIN   = "evab";
-  const DB_PASS    = "paprika";
+  const DB_PASS    = "cestPasCeluiLa";
 
   const DB_DRIVER  = "mysql";
   const DB_CHARSET = "utf8mb4";
